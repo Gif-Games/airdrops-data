@@ -25,11 +25,7 @@ async def fetch(session, blockId, tokenId):
                 print(f"Got data - {blockId}")
                 token_id = data['value']['token_id']
                 owner_address = data['value']['owner']
-                kalamint_username = ""
-                try:
-                    kalamint_username = getUsername(owner_address)
-                except:
-                    print("error", blockId)
+                kalamint_username = getUsername(owner_address)
                 tokenData.append({
                     'block_id': blockId,
                     'token_id': token_id,
