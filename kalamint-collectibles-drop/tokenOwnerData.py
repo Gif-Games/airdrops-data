@@ -27,10 +27,12 @@ async def fetch(session, tokenId):
                 print(f"Got data - {tokenId}")
                 token_id = data['value']['token_id']
                 owner_address = data['value']['owner']
+                print(data['value']['extras']['name'])
                 kalamint_username = getUsername(owner_address)
                 tokenData.append({
                     'token_id': str(token_id),
-                    'UNO amount': "6",
+                    'name': data['value']['extras']['name'],
+                    'UNO amount': "33" if token_id == "3162" else "6",
                     'owner_address': owner_address,
                     'kalamint_username': kalamint_username
                 })
