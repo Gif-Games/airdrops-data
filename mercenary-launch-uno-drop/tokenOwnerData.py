@@ -26,9 +26,10 @@ async def fetch(session, tokenId):
                 token_id = data['value']['token_id']
                 owner_address = data['value']['owner']
                 tokenData.append({
-                    'token_id': str(token_id),
-                    'unit #': data['value']['uid'],
-                    'owner_address': owner_address,
+                    'Token ID': str(token_id),
+                    'Unit #': data['value']['uid'],
+                    "UNO amount": 3,
+                    'Owner Address': owner_address,
                 })
         except Exception as e:
             print("e", tokenId)
@@ -47,7 +48,7 @@ async def main():
 asyncio.run(main())
 
 def getKey(data):
-    return data['token_id']
+    return data['Token ID']
 
 tokenData.sort(key=getKey)
 
