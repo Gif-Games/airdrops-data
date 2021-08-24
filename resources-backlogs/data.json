@@ -1,0 +1,1682 @@
+[
+    {
+        "Block ID": "0000",
+        "Minting time": "2021-05-03 21:49:57",
+        "UNO Backlog": 14.0048,
+        "ENR Backlog": 14004.7537,
+        "MIN Backlog": 778.0419,
+        "MCH Backlog": 778.0419
+    },
+    {
+        "Block ID": "0001",
+        "Minting time": "2021-05-05 20:15:41",
+        "UNO Backlog": 10.7301,
+        "ENR Backlog": 1532.8693,
+        "MIN Backlog": 3832.1733,
+        "MCH Backlog": 766.4347
+    },
+    {
+        "Block ID": "0002",
+        "Minting time": "2021-05-05 23:51:21",
+        "UNO Backlog": 10.7175,
+        "ENR Backlog": 1531.0721,
+        "MIN Backlog": 5358.7524,
+        "MCH Backlog": 765.5361
+    },
+    {
+        "Block ID": "0003",
+        "Minting time": "2021-05-06 00:04:21",
+        "UNO Backlog": 12.2477,
+        "ENR Backlog": 1530.9637,
+        "MIN Backlog": 5358.3731,
+        "MCH Backlog": 765.4819
+    },
+    {
+        "Block ID": "0004",
+        "Minting time": "2021-05-06 00:13:01",
+        "UNO Backlog": 12.2471,
+        "ENR Backlog": 12247.1324,
+        "MIN Backlog": 765.4458,
+        "MCH Backlog": 765.4458
+    },
+    {
+        "Block ID": "0005",
+        "Minting time": "2021-05-06 00:18:01",
+        "UNO Backlog": 12.2468,
+        "ENR Backlog": 1530.8499,
+        "MIN Backlog": 6888.8243,
+        "MCH Backlog": 765.4249
+    },
+    {
+        "Block ID": "0006",
+        "Minting time": "2021-05-06 00:18:01",
+        "UNO Backlog": 12.2468,
+        "ENR Backlog": 1530.8499,
+        "MIN Backlog": 6888.8243,
+        "MCH Backlog": 765.4249
+    },
+    {
+        "Block ID": "0007",
+        "Minting time": "2021-05-06 00:30:01",
+        "UNO Backlog": 7.6537,
+        "ENR Backlog": 1530.7498,
+        "MIN Backlog": 5357.6245,
+        "MCH Backlog": 765.3749
+    },
+    {
+        "Block ID": "0008",
+        "Minting time": "2021-05-06 00:34:01",
+        "UNO Backlog": 13.7764,
+        "ENR Backlog": 7653.5828,
+        "MIN Backlog": 765.3583,
+        "MCH Backlog": 765.3583
+    },
+    {
+        "Block ID": "0009",
+        "Minting time": "2021-05-07 00:38:41",
+        "UNO Backlog": 4.556,
+        "ENR Backlog": 10630.7436,
+        "MIN Backlog": 759.3388,
+        "MCH Backlog": 759.3388
+    },
+    {
+        "Block ID": "0010",
+        "Minting time": "2021-05-07 00:15:41",
+        "UNO Backlog": 9.1132,
+        "ENR Backlog": 9113.2158,
+        "MIN Backlog": 759.4347,
+        "MCH Backlog": 759.4347
+    },
+    {
+        "Block ID": "0011",
+        "Minting time": "2021-05-07 00:54:21",
+        "UNO Backlog": 10.6298,
+        "ENR Backlog": 10629.8297,
+        "MIN Backlog": 759.2736,
+        "MCH Backlog": 759.2736
+    },
+    {
+        "Block ID": "0012",
+        "Minting time": "2021-05-10 16:22:26",
+        "UNO Backlog": 10.3237,
+        "ENR Backlog": 1474.813,
+        "MIN Backlog": 5161.8457,
+        "MCH Backlog": 737.4065
+    },
+    {
+        "Block ID": "0013",
+        "Minting time": "2021-05-10 16:26:26",
+        "UNO Backlog": 11.7982,
+        "ENR Backlog": 1474.7797,
+        "MIN Backlog": 4424.3391,
+        "MCH Backlog": 737.3899
+    },
+    {
+        "Block ID": "0014",
+        "Minting time": "2021-05-10 16:31:26",
+        "UNO Backlog": 5.899,
+        "ENR Backlog": 11797.9044,
+        "MIN Backlog": 737.369,
+        "MCH Backlog": 737.369
+    },
+    {
+        "Block ID": "0015",
+        "Minting time": "2021-05-10 16:35:26",
+        "UNO Backlog": 13.2723,
+        "ENR Backlog": 1474.7047,
+        "MIN Backlog": 4424.1141,
+        "MCH Backlog": 737.3524
+    },
+    {
+        "Block ID": "0016",
+        "Minting time": "2021-05-10 16:38:26",
+        "UNO Backlog": 8.8481,
+        "ENR Backlog": 1474.6797,
+        "MIN Backlog": 4424.0391,
+        "MCH Backlog": 737.3398
+    },
+    {
+        "Block ID": "0017",
+        "Minting time": "2021-05-10 16:43:26",
+        "UNO Backlog": 7.3732,
+        "ENR Backlog": 1474.6381,
+        "MIN Backlog": 5898.5522,
+        "MCH Backlog": 737.319
+    },
+    {
+        "Block ID": "0018",
+        "Minting time": "2021-05-13 20:27:38",
+        "UNO Backlog": 2.8735,
+        "ENR Backlog": 1436.7697,
+        "MIN Backlog": 5747.0788,
+        "MCH Backlog": 718.3849
+    },
+    {
+        "Block ID": "0019",
+        "Minting time": "2021-05-13 21:01:38",
+        "UNO Backlog": 11.4919,
+        "ENR Backlog": 10055.4048,
+        "MIN Backlog": 718.2432,
+        "MCH Backlog": 718.2432
+    },
+    {
+        "Block ID": "0020",
+        "Minting time": "2021-05-13 20:33:38",
+        "UNO Backlog": 8.6203,
+        "ENR Backlog": 8620.3182,
+        "MIN Backlog": 718.3599,
+        "MCH Backlog": 718.3599
+    },
+    {
+        "Block ID": "0021",
+        "Minting time": "2021-05-13 20:36:38",
+        "UNO Backlog": 4.3101,
+        "ENR Backlog": 1436.6947,
+        "MIN Backlog": 6465.1262,
+        "MCH Backlog": 718.3474
+    },
+    {
+        "Block ID": "0022",
+        "Minting time": "2021-05-13 20:39:38",
+        "UNO Backlog": 2.8733,
+        "ENR Backlog": 12930.0273,
+        "MIN Backlog": 718.3348,
+        "MCH Backlog": 718.3348
+    },
+    {
+        "Block ID": "0023",
+        "Minting time": "2021-05-13 20:41:38",
+        "UNO Backlog": 8.6199,
+        "ENR Backlog": 8619.9183,
+        "MIN Backlog": 718.3265,
+        "MCH Backlog": 718.3265
+    },
+    {
+        "Block ID": "0024",
+        "Minting time": "2021-05-13 21:05:38",
+        "UNO Backlog": 5.7458,
+        "ENR Backlog": 1436.4531,
+        "MIN Backlog": 4309.3592,
+        "MCH Backlog": 718.2265
+    },
+    {
+        "Block ID": "0025",
+        "Minting time": "2021-05-15 00:12:14",
+        "UNO Backlog": 7.1145,
+        "ENR Backlog": 1422.8981,
+        "MIN Backlog": 3557.2451,
+        "MCH Backlog": 711.449
+    },
+    {
+        "Block ID": "0026",
+        "Minting time": "2021-05-20 12:40:42",
+        "UNO Backlog": 2.7133,
+        "ENR Backlog": 1356.6608,
+        "MIN Backlog": 5426.6434,
+        "MCH Backlog": 678.3304
+    },
+    {
+        "Block ID": "0027",
+        "Minting time": "2021-05-20 12:43:42",
+        "UNO Backlog": 4.0699,
+        "ENR Backlog": 1356.6358,
+        "MIN Backlog": 5426.5434,
+        "MCH Backlog": 678.3179
+    },
+    {
+        "Block ID": "0028",
+        "Minting time": "2021-05-20 12:46:42",
+        "UNO Backlog": 6.7831,
+        "ENR Backlog": 1356.6109,
+        "MIN Backlog": 5426.4434,
+        "MCH Backlog": 678.3054
+    },
+    {
+        "Block ID": "0029",
+        "Minting time": "2021-05-20 12:48:42",
+        "UNO Backlog": 5.4264,
+        "ENR Backlog": 8139.5649,
+        "MIN Backlog": 678.2971,
+        "MCH Backlog": 678.2971
+    },
+    {
+        "Block ID": "0030",
+        "Minting time": "2021-05-20 12:51:02",
+        "UNO Backlog": 2.7131,
+        "ENR Backlog": 6782.8735,
+        "MIN Backlog": 678.2873,
+        "MCH Backlog": 678.2873
+    },
+    {
+        "Block ID": "0031",
+        "Minting time": "2021-05-20 12:58:02",
+        "UNO Backlog": 4.0695,
+        "ENR Backlog": 10852.1312,
+        "MIN Backlog": 678.2582,
+        "MCH Backlog": 678.2582
+    },
+    {
+        "Block ID": "0032",
+        "Minting time": "2021-05-20 13:01:02",
+        "UNO Backlog": 6.7825,
+        "ENR Backlog": 9495.4398,
+        "MIN Backlog": 678.2457,
+        "MCH Backlog": 678.2457
+    },
+    {
+        "Block ID": "0033",
+        "Minting time": "2021-05-20 13:04:02",
+        "UNO Backlog": 6.7823,
+        "ENR Backlog": 1356.4664,
+        "MIN Backlog": 3391.166,
+        "MCH Backlog": 678.2332
+    },
+    {
+        "Block ID": "0034",
+        "Minting time": "2021-05-20 13:08:02",
+        "UNO Backlog": 2.7129,
+        "ENR Backlog": 5425.7322,
+        "MIN Backlog": 678.2165,
+        "MCH Backlog": 678.2165
+    },
+    {
+        "Block ID": "0035",
+        "Minting time": "2021-05-20 13:11:02",
+        "UNO Backlog": 2.7128,
+        "ENR Backlog": 1356.4081,
+        "MIN Backlog": 3391.0201,
+        "MCH Backlog": 678.204
+    },
+    {
+        "Block ID": "0036",
+        "Minting time": "2021-05-24 14:25:58",
+        "UNO Backlog": 6.5389,
+        "ENR Backlog": 9154.4852,
+        "MIN Backlog": 653.8918,
+        "MCH Backlog": 653.8918
+    },
+    {
+        "Block ID": "0037",
+        "Minting time": "2021-05-24 14:28:58",
+        "UNO Backlog": 3.9233,
+        "ENR Backlog": 1307.7586,
+        "MIN Backlog": 4577.1551,
+        "MCH Backlog": 653.8793
+    },
+    {
+        "Block ID": "0038",
+        "Minting time": "2021-05-24 14:32:58",
+        "UNO Backlog": 2.6155,
+        "ENR Backlog": 6538.6265,
+        "MIN Backlog": 653.8627,
+        "MCH Backlog": 653.8627
+    },
+    {
+        "Block ID": "0039",
+        "Minting time": "2021-05-25 09:36:38",
+        "UNO Backlog": 3.8946,
+        "ENR Backlog": 1298.1947,
+        "MIN Backlog": 5192.7788,
+        "MCH Backlog": 649.0974
+    },
+    {
+        "Block ID": "0040",
+        "Minting time": "2021-05-25 09:33:38",
+        "UNO Backlog": 5.1929,
+        "ENR Backlog": 1298.2197,
+        "MIN Backlog": 5192.8788,
+        "MCH Backlog": 649.1099
+    },
+    {
+        "Block ID": "0041",
+        "Minting time": "2021-05-25 09:38:38",
+        "UNO Backlog": 3.8945,
+        "ENR Backlog": 1298.178,
+        "MIN Backlog": 3245.4451,
+        "MCH Backlog": 649.089
+    },
+    {
+        "Block ID": "0042",
+        "Minting time": "2021-05-26 14:59:54",
+        "UNO Backlog": 6.4175,
+        "ENR Backlog": 1283.5008,
+        "MIN Backlog": 4492.253,
+        "MCH Backlog": 641.7504
+    },
+    {
+        "Block ID": "0043",
+        "Minting time": "2021-05-26 15:56:54",
+        "UNO Backlog": 3.8491,
+        "ENR Backlog": 1283.0258,
+        "MIN Backlog": 4490.5905,
+        "MCH Backlog": 641.5129
+    },
+    {
+        "Block ID": "0044",
+        "Minting time": "2021-05-26 15:59:54",
+        "UNO Backlog": 2.566,
+        "ENR Backlog": 1283.0008,
+        "MIN Backlog": 1924.5013,
+        "MCH Backlog": 641.5004
+    },
+    {
+        "Block ID": "0045",
+        "Minting time": "2021-05-27 15:51:58",
+        "UNO Backlog": 2.5421,
+        "ENR Backlog": 1271.0669,
+        "MIN Backlog": 3177.6674,
+        "MCH Backlog": 635.5335
+    },
+    {
+        "Block ID": "0046",
+        "Minting time": "2021-05-27 15:54:58",
+        "UNO Backlog": 5.0842,
+        "ENR Backlog": 1271.042,
+        "MIN Backlog": 4448.6468,
+        "MCH Backlog": 635.521
+    },
+    {
+        "Block ID": "0047",
+        "Minting time": "2021-05-27 15:57:58",
+        "UNO Backlog": 3.8131,
+        "ENR Backlog": 1271.0169,
+        "MIN Backlog": 5719.5763,
+        "MCH Backlog": 635.5085
+    },
+    {
+        "Block ID": "0048",
+        "Minting time": "2021-05-28 12:52:42",
+        "UNO Backlog": 3.7817,
+        "ENR Backlog": 1260.5609,
+        "MIN Backlog": 5042.2434,
+        "MCH Backlog": 630.2804
+    },
+    {
+        "Block ID": "0049",
+        "Minting time": "2021-05-28 12:56:22",
+        "UNO Backlog": 5.0421,
+        "ENR Backlog": 1260.5303,
+        "MIN Backlog": 3151.3257,
+        "MCH Backlog": 630.2651
+    },
+    {
+        "Block ID": "0050",
+        "Minting time": "2021-05-28 12:59:22",
+        "UNO Backlog": 3.7815,
+        "ENR Backlog": 1260.5053,
+        "MIN Backlog": 3781.5159,
+        "MCH Backlog": 630.2527
+    },
+    {
+        "Block ID": "0051",
+        "Minting time": "2021-05-31 02:14:34",
+        "UNO Backlog": 6.1494,
+        "ENR Backlog": 11068.9074,
+        "MIN Backlog": 614.9393,
+        "MCH Backlog": 614.9393
+    },
+    {
+        "Block ID": "0052",
+        "Minting time": "2021-05-31 02:17:34",
+        "UNO Backlog": 4.9194,
+        "ENR Backlog": 8608.9752,
+        "MIN Backlog": 614.9268,
+        "MCH Backlog": 614.9268
+    },
+    {
+        "Block ID": "0053",
+        "Minting time": "2021-05-31 02:20:58",
+        "UNO Backlog": 4.9193,
+        "ENR Backlog": 9838.6024,
+        "MIN Backlog": 614.9126,
+        "MCH Backlog": 614.9126
+    },
+    {
+        "Block ID": "0054",
+        "Minting time": "2021-05-31 02:23:58",
+        "UNO Backlog": 2.4596,
+        "ENR Backlog": 3689.4009,
+        "MIN Backlog": 614.9002,
+        "MCH Backlog": 614.9002
+    },
+    {
+        "Block ID": "0055",
+        "Minting time": "2021-05-31 02:25:58",
+        "UNO Backlog": 3.6894,
+        "ENR Backlog": 1229.7836,
+        "MIN Backlog": 3074.459,
+        "MCH Backlog": 614.8918
+    },
+    {
+        "Block ID": "0056",
+        "Minting time": "2021-05-31 13:19:30",
+        "UNO Backlog": 3.673,
+        "ENR Backlog": 6121.6875,
+        "MIN Backlog": 612.1688,
+        "MCH Backlog": 612.1688
+    },
+    {
+        "Block ID": "0057",
+        "Minting time": "2021-05-31 13:26:30",
+        "UNO Backlog": 4.8971,
+        "ENR Backlog": 4897.1166,
+        "MIN Backlog": 612.1396,
+        "MCH Backlog": 612.1396
+    },
+    {
+        "Block ID": "0058",
+        "Minting time": "2021-05-31 13:29:30",
+        "UNO Backlog": 3.6728,
+        "ENR Backlog": 1224.2541,
+        "MIN Backlog": 2448.5083,
+        "MCH Backlog": 612.1271
+    },
+    {
+        "Block ID": "0059",
+        "Minting time": "2021-05-31 13:32:30",
+        "UNO Backlog": 4.8969,
+        "ENR Backlog": 4896.9166,
+        "MIN Backlog": 612.1146,
+        "MCH Backlog": 612.1146
+    },
+    {
+        "Block ID": "0060",
+        "Minting time": "2021-05-31 13:35:30",
+        "UNO Backlog": 2.4484,
+        "ENR Backlog": 1224.2042,
+        "MIN Backlog": 2448.4083,
+        "MCH Backlog": 612.1021
+    },
+    {
+        "Block ID": "0061",
+        "Minting time": "2021-06-01 15:26:54",
+        "UNO Backlog": 2.4226,
+        "ENR Backlog": 1211.2758,
+        "MIN Backlog": 1211.2758,
+        "MCH Backlog": 605.6379
+    },
+    {
+        "Block ID": "0062",
+        "Minting time": "2021-06-01 15:18:54",
+        "UNO Backlog": 2.4227,
+        "ENR Backlog": 3634.0275,
+        "MIN Backlog": 605.6712,
+        "MCH Backlog": 605.6712
+    },
+    {
+        "Block ID": "0063",
+        "Minting time": "2021-06-01 15:22:54",
+        "UNO Backlog": 4.8452,
+        "ENR Backlog": 1211.3092,
+        "MIN Backlog": 3633.9275,
+        "MCH Backlog": 605.6546
+    },
+    {
+        "Block ID": "0064",
+        "Minting time": "2021-06-02 16:47:50",
+        "UNO Backlog": 4.7944,
+        "ENR Backlog": 1198.6014,
+        "MIN Backlog": 3595.8042,
+        "MCH Backlog": 599.3007
+    },
+    {
+        "Block ID": "0065",
+        "Minting time": "2021-06-02 17:10:50",
+        "UNO Backlog": 3.5952,
+        "ENR Backlog": 1198.4097,
+        "MIN Backlog": 4194.4339,
+        "MCH Backlog": 599.2048
+    },
+    {
+        "Block ID": "0066",
+        "Minting time": "2021-06-02 17:03:30",
+        "UNO Backlog": 4.7939,
+        "ENR Backlog": 7190.8251,
+        "MIN Backlog": 599.2354,
+        "MCH Backlog": 599.2354
+    },
+    {
+        "Block ID": "0067",
+        "Minting time": "2021-06-03 14:14:18",
+        "UNO Backlog": 2.3758,
+        "ENR Backlog": 1187.8809,
+        "MIN Backlog": 3563.6426,
+        "MCH Backlog": 593.9404
+    },
+    {
+        "Block ID": "0068",
+        "Minting time": "2021-06-03 14:19:58",
+        "UNO Backlog": 4.7513,
+        "ENR Backlog": 1187.8336,
+        "MIN Backlog": 3563.5008,
+        "MCH Backlog": 593.9168
+    },
+    {
+        "Block ID": "0069",
+        "Minting time": "2021-06-03 14:27:58",
+        "UNO Backlog": 4.7511,
+        "ENR Backlog": 1187.7669,
+        "MIN Backlog": 2375.5339,
+        "MCH Backlog": 593.8835
+    },
+    {
+        "Block ID": "0070",
+        "Minting time": "2021-06-04 07:33:22",
+        "UNO Backlog": 2.3584,
+        "ENR Backlog": 7075.3317,
+        "MIN Backlog": 589.611,
+        "MCH Backlog": 589.611
+    },
+    {
+        "Block ID": "0071",
+        "Minting time": "2021-06-04 07:39:22",
+        "UNO Backlog": 3.5375,
+        "ENR Backlog": 1179.1719,
+        "MIN Backlog": 2947.9299,
+        "MCH Backlog": 589.586
+    },
+    {
+        "Block ID": "0072",
+        "Minting time": "2021-06-04 07:43:22",
+        "UNO Backlog": 2.3583,
+        "ENR Backlog": 2358.2772,
+        "MIN Backlog": 589.5693,
+        "MCH Backlog": 589.5693
+    },
+    {
+        "Block ID": "0073",
+        "Minting time": "2021-06-07 15:30:54",
+        "UNO Backlog": 5.6962,
+        "ENR Backlog": 5696.2125,
+        "MIN Backlog": 569.6213,
+        "MCH Backlog": 569.6213
+    },
+    {
+        "Block ID": "0074",
+        "Minting time": "2021-06-07 16:03:58",
+        "UNO Backlog": 3.4169,
+        "ENR Backlog": 7972.7686,
+        "MIN Backlog": 569.4835,
+        "MCH Backlog": 569.4835
+    },
+    {
+        "Block ID": "0075",
+        "Minting time": "2021-06-07 16:10:58",
+        "UNO Backlog": 2.2778,
+        "ENR Backlog": 3416.7258,
+        "MIN Backlog": 569.4543,
+        "MCH Backlog": 569.4543
+    },
+    {
+        "Block ID": "0076",
+        "Minting time": "2021-06-07 16:16:58",
+        "UNO Backlog": 3.4166,
+        "ENR Backlog": 1138.8586,
+        "MIN Backlog": 1708.2879,
+        "MCH Backlog": 569.4293
+    },
+    {
+        "Block ID": "0077",
+        "Minting time": "2021-06-08 13:43:18",
+        "UNO Backlog": 2.2563,
+        "ENR Backlog": 1128.1391,
+        "MIN Backlog": 1692.2087,
+        "MCH Backlog": 564.0696
+    },
+    {
+        "Block ID": "0078",
+        "Minting time": "2021-06-08 13:48:38",
+        "UNO Backlog": 2.2562,
+        "ENR Backlog": 4512.3788,
+        "MIN Backlog": 564.0474,
+        "MCH Backlog": 564.0474
+    },
+    {
+        "Block ID": "0079",
+        "Minting time": "2021-06-08 13:52:38",
+        "UNO Backlog": 4.5122,
+        "ENR Backlog": 1128.0614,
+        "MIN Backlog": 4512.2456,
+        "MCH Backlog": 564.0307
+    },
+    {
+        "Block ID": "0080",
+        "Minting time": "2021-06-08 13:57:38",
+        "UNO Backlog": 5.6401,
+        "ENR Backlog": 9024.1576,
+        "MIN Backlog": 564.0099,
+        "MCH Backlog": 564.0099
+    },
+    {
+        "Block ID": "0081",
+        "Minting time": "2021-06-09 17:09:22",
+        "UNO Backlog": 5.5721,
+        "ENR Backlog": 6686.5317,
+        "MIN Backlog": 557.211,
+        "MCH Backlog": 557.211
+    },
+    {
+        "Block ID": "0082",
+        "Minting time": "2021-06-09 17:14:22",
+        "UNO Backlog": 3.3431,
+        "ENR Backlog": 1114.3803,
+        "MIN Backlog": 3343.1409,
+        "MCH Backlog": 557.1902
+    },
+    {
+        "Block ID": "0083",
+        "Minting time": "2021-06-09 17:19:22",
+        "UNO Backlog": 4.4574,
+        "ENR Backlog": 1114.3386,
+        "MIN Backlog": 3900.1851,
+        "MCH Backlog": 557.1693
+    },
+    {
+        "Block ID": "0084",
+        "Minting time": "2021-06-09 17:24:22",
+        "UNO Backlog": 2.2286,
+        "ENR Backlog": 1114.2969,
+        "MIN Backlog": 2228.5939,
+        "MCH Backlog": 557.1485
+    },
+    {
+        "Block ID": "0085",
+        "Minting time": "2021-06-10 10:21:58",
+        "UNO Backlog": 4.4233,
+        "ENR Backlog": 5529.0847,
+        "MIN Backlog": 552.9085,
+        "MCH Backlog": 552.9085
+    },
+    {
+        "Block ID": "0086",
+        "Minting time": "2021-06-10 10:28:58",
+        "UNO Backlog": 2.2115,
+        "ENR Backlog": 1105.7586,
+        "MIN Backlog": 1105.7586,
+        "MCH Backlog": 552.8793
+    },
+    {
+        "Block ID": "0087",
+        "Minting time": "2021-06-10 10:38:58",
+        "UNO Backlog": 3.317,
+        "ENR Backlog": 6634.0518,
+        "MIN Backlog": 552.8377,
+        "MCH Backlog": 552.8377
+    },
+    {
+        "Block ID": "0088",
+        "Minting time": "2021-06-23 10:51:50",
+        "UNO Backlog": 6.647,
+        "ENR Backlog": 5697.4083,
+        "MIN Backlog": 474.784,
+        "MCH Backlog": 474.784
+    },
+    {
+        "Block ID": "0089",
+        "Minting time": "2021-06-23 11:02:50",
+        "UNO Backlog": 5.6969,
+        "ENR Backlog": 7595.8112,
+        "MIN Backlog": 474.7382,
+        "MCH Backlog": 474.7382
+    },
+    {
+        "Block ID": "0090",
+        "Minting time": "2021-06-23 11:50:10",
+        "UNO Backlog": 4.7454,
+        "ENR Backlog": 949.082,
+        "MIN Backlog": 2372.7049,
+        "MCH Backlog": 474.541
+    },
+    {
+        "Block ID": "0091",
+        "Minting time": "2021-06-23 11:53:10",
+        "UNO Backlog": 2.8472,
+        "ENR Backlog": 949.057,
+        "MIN Backlog": 1423.5854,
+        "MCH Backlog": 474.5285
+    },
+    {
+        "Block ID": "0092",
+        "Minting time": "2021-06-23 11:56:10",
+        "UNO Backlog": 3.7961,
+        "ENR Backlog": 949.032,
+        "MIN Backlog": 949.032,
+        "MCH Backlog": 474.516
+    },
+    {
+        "Block ID": "0093",
+        "Minting time": "2021-06-23 11:58:10",
+        "UNO Backlog": 1.898,
+        "ENR Backlog": 949.0153,
+        "MIN Backlog": 2372.5383,
+        "MCH Backlog": 474.5077
+    },
+    {
+        "Block ID": "0094",
+        "Minting time": "2021-06-23 12:02:10",
+        "UNO Backlog": 3.7959,
+        "ENR Backlog": 7591.8556,
+        "MIN Backlog": 474.491,
+        "MCH Backlog": 474.491
+    },
+    {
+        "Block ID": "0095",
+        "Minting time": "2021-06-23 12:06:10",
+        "UNO Backlog": 2.8468,
+        "ENR Backlog": 2846.8458,
+        "MIN Backlog": 474.4743,
+        "MCH Backlog": 474.4743
+    },
+    {
+        "Block ID": "0096",
+        "Minting time": "2021-06-23 12:12:10",
+        "UNO Backlog": 5.6934,
+        "ENR Backlog": 3795.5944,
+        "MIN Backlog": 474.4493,
+        "MCH Backlog": 474.4493
+    },
+    {
+        "Block ID": "0097",
+        "Minting time": "2021-06-23 12:16:10",
+        "UNO Backlog": 3.7955,
+        "ENR Backlog": 948.8653,
+        "MIN Backlog": 2846.5959,
+        "MCH Backlog": 474.4327
+    },
+    {
+        "Block ID": "0098",
+        "Minting time": "2021-06-23 12:23:10",
+        "UNO Backlog": 4.744,
+        "ENR Backlog": 948.807,
+        "MIN Backlog": 2846.4208,
+        "MCH Backlog": 474.4035
+    },
+    {
+        "Block ID": "0099",
+        "Minting time": "2021-06-23 12:33:50",
+        "UNO Backlog": 1.8974,
+        "ENR Backlog": 948.718,
+        "MIN Backlog": 948.718,
+        "MCH Backlog": 474.359
+    },
+    {
+        "Block ID": "0100",
+        "Minting time": "2021-06-23 12:36:50",
+        "UNO Backlog": 4.7435,
+        "ENR Backlog": 948.693,
+        "MIN Backlog": 3320.4257,
+        "MCH Backlog": 474.3465
+    },
+    {
+        "Block ID": "0101",
+        "Minting time": "2021-06-23 12:42:50",
+        "UNO Backlog": 2.8459,
+        "ENR Backlog": 948.6431,
+        "MIN Backlog": 3320.2507,
+        "MCH Backlog": 474.3215
+    },
+    {
+        "Block ID": "0102",
+        "Minting time": "2021-06-23 12:46:50",
+        "UNO Backlog": 1.8972,
+        "ENR Backlog": 948.6097,
+        "MIN Backlog": 3794.4388,
+        "MCH Backlog": 474.3048
+    },
+    {
+        "Block ID": "0103",
+        "Minting time": "2021-06-23 12:55:02",
+        "UNO Backlog": 0.9485,
+        "ENR Backlog": 4742.707,
+        "MIN Backlog": 1422.8121,
+        "MCH Backlog": 474.2707
+    },
+    {
+        "Block ID": "0104",
+        "Minting time": "2021-06-23 13:02:42",
+        "UNO Backlog": 0.9485,
+        "ENR Backlog": 5690.865,
+        "MIN Backlog": 3319.6712,
+        "MCH Backlog": 474.2387
+    },
+    {
+        "Block ID": "0105",
+        "Minting time": "2021-06-23 13:14:06",
+        "UNO Backlog": 0.9484,
+        "ENR Backlog": 2845.1475,
+        "MIN Backlog": 474.1913,
+        "MCH Backlog": 474.1913
+    },
+    {
+        "Block ID": "0106",
+        "Minting time": "2021-06-23 13:20:06",
+        "UNO Backlog": 2.845,
+        "ENR Backlog": 948.3325,
+        "MIN Backlog": 948.3325,
+        "MCH Backlog": 474.1662
+    },
+    {
+        "Block ID": "0107",
+        "Minting time": "2021-06-23 13:25:06",
+        "UNO Backlog": 0.9483,
+        "ENR Backlog": 948.2908,
+        "MIN Backlog": 1422.4363,
+        "MCH Backlog": 474.1454
+    },
+    {
+        "Block ID": "0108",
+        "Minting time": "2021-06-23 13:31:14",
+        "UNO Backlog": 0.9482,
+        "ENR Backlog": 948.2397,
+        "MIN Backlog": 2844.7191,
+        "MCH Backlog": 474.1198
+    },
+    {
+        "Block ID": "0109",
+        "Minting time": "2021-06-23 13:38:46",
+        "UNO Backlog": 0.9482,
+        "ENR Backlog": 948.177,
+        "MIN Backlog": 3318.6193,
+        "MCH Backlog": 474.0885
+    },
+    {
+        "Block ID": "0110",
+        "Minting time": "2021-06-23 13:44:46",
+        "UNO Backlog": 2.8444,
+        "ENR Backlog": 5688.7617,
+        "MIN Backlog": 474.0635,
+        "MCH Backlog": 474.0635
+    },
+    {
+        "Block ID": "0111",
+        "Minting time": "2021-06-23 13:49:46",
+        "UNO Backlog": 3.7923,
+        "ENR Backlog": 3792.3412,
+        "MIN Backlog": 474.0426,
+        "MCH Backlog": 474.0426
+    },
+    {
+        "Block ID": "0112",
+        "Minting time": "2021-06-23 13:56:46",
+        "UNO Backlog": 0.948,
+        "ENR Backlog": 3792.1078,
+        "MIN Backlog": 3792.1078,
+        "MCH Backlog": 474.0135
+    },
+    {
+        "Block ID": "0113",
+        "Minting time": "2021-06-28 09:51:34",
+        "UNO Backlog": 0.8901,
+        "ENR Backlog": 6230.4921,
+        "MIN Backlog": 3115.246,
+        "MCH Backlog": 445.0351
+    },
+    {
+        "Block ID": "0114",
+        "Minting time": "2021-06-28 10:00:34",
+        "UNO Backlog": 0.89,
+        "ENR Backlog": 5339.9718,
+        "MIN Backlog": 889.9953,
+        "MCH Backlog": 444.9977
+    },
+    {
+        "Block ID": "0115",
+        "Minting time": "2021-06-28 10:06:34",
+        "UNO Backlog": 0.8899,
+        "ENR Backlog": 4449.7265,
+        "MIN Backlog": 3114.8085,
+        "MCH Backlog": 444.9726
+    },
+    {
+        "Block ID": "0116",
+        "Minting time": "2021-06-29 07:28:46",
+        "UNO Backlog": 0.8793,
+        "ENR Backlog": 879.2603,
+        "MIN Backlog": 1318.8905,
+        "MCH Backlog": 439.6302
+    },
+    {
+        "Block ID": "0117",
+        "Minting time": "2021-06-29 07:33:46",
+        "UNO Backlog": 0.8792,
+        "ENR Backlog": 879.2186,
+        "MIN Backlog": 3516.8744,
+        "MCH Backlog": 439.6093
+    },
+    {
+        "Block ID": "0118",
+        "Minting time": "2021-06-29 07:37:46",
+        "UNO Backlog": 0.8792,
+        "ENR Backlog": 6154.2971,
+        "MIN Backlog": 2197.9632,
+        "MCH Backlog": 439.5926
+    },
+    {
+        "Block ID": "0119",
+        "Minting time": "2021-06-30 18:19:06",
+        "UNO Backlog": 0.8618,
+        "ENR Backlog": 7756.5677,
+        "MIN Backlog": 2154.6021,
+        "MCH Backlog": 430.9204
+    },
+    {
+        "Block ID": "0120",
+        "Minting time": "2021-06-30 18:23:06",
+        "UNO Backlog": 2.5854,
+        "ENR Backlog": 861.8075,
+        "MIN Backlog": 1723.615,
+        "MCH Backlog": 430.9038
+    },
+    {
+        "Block ID": "0121",
+        "Minting time": "2021-06-30 18:39:06",
+        "UNO Backlog": 0.8617,
+        "ENR Backlog": 2585.0225,
+        "MIN Backlog": 430.8371,
+        "MCH Backlog": 430.8371
+    },
+    {
+        "Block ID": "0122",
+        "Minting time": "2021-07-01 17:22:22",
+        "UNO Backlog": 0.8503,
+        "ENR Backlog": 4251.568,
+        "MIN Backlog": 2550.9408,
+        "MCH Backlog": 425.1568
+    },
+    {
+        "Block ID": "0123",
+        "Minting time": "2021-07-01 18:17:22",
+        "UNO Backlog": 0.8499,
+        "ENR Backlog": 849.8553,
+        "MIN Backlog": 1274.783,
+        "MCH Backlog": 424.9277
+    },
+    {
+        "Block ID": "0124",
+        "Minting time": "2021-07-01 18:29:50",
+        "UNO Backlog": 0.8498,
+        "ENR Backlog": 2549.2542,
+        "MIN Backlog": 1274.6271,
+        "MCH Backlog": 424.8757
+    },
+    {
+        "Block ID": "0125",
+        "Minting time": "2021-07-03 08:30:14",
+        "UNO Backlog": 0.8307,
+        "ENR Backlog": 4984.4883,
+        "MIN Backlog": 3322.9922,
+        "MCH Backlog": 415.374
+    },
+    {
+        "Block ID": "0126",
+        "Minting time": "2021-07-03 08:35:14",
+        "UNO Backlog": 0.8307,
+        "ENR Backlog": 2492.1192,
+        "MIN Backlog": 2076.766,
+        "MCH Backlog": 415.3532
+    },
+    {
+        "Block ID": "0127",
+        "Minting time": "2021-07-03 08:38:14",
+        "UNO Backlog": 0.8307,
+        "ENR Backlog": 1661.3628,
+        "MIN Backlog": 830.6814,
+        "MCH Backlog": 415.3407
+    },
+    {
+        "Block ID": "0128",
+        "Minting time": "2021-07-06 14:57:26",
+        "UNO Backlog": 0.7915,
+        "ENR Backlog": 2374.5642,
+        "MIN Backlog": 2374.5642,
+        "MCH Backlog": 395.7607
+    },
+    {
+        "Block ID": "0129",
+        "Minting time": "2021-07-06 15:02:26",
+        "UNO Backlog": 2.3744,
+        "ENR Backlog": 791.4797,
+        "MIN Backlog": 1187.2196,
+        "MCH Backlog": 395.7398
+    },
+    {
+        "Block ID": "0130",
+        "Minting time": "2021-07-06 15:08:26",
+        "UNO Backlog": 0.7914,
+        "ENR Backlog": 2374.2891,
+        "MIN Backlog": 2770.004,
+        "MCH Backlog": 395.7149
+    },
+    {
+        "Block ID": "0131",
+        "Minting time": "2021-07-06 15:11:26",
+        "UNO Backlog": 0.7914,
+        "ENR Backlog": 5539.8329,
+        "MIN Backlog": 1187.1071,
+        "MCH Backlog": 395.7024
+    },
+    {
+        "Block ID": "0132",
+        "Minting time": "2021-07-06 15:14:26",
+        "UNO Backlog": 0.7914,
+        "ENR Backlog": 6331.0376,
+        "MIN Backlog": 2769.829,
+        "MCH Backlog": 395.6898
+    },
+    {
+        "Block ID": "0133",
+        "Minting time": "2021-07-07 17:44:58",
+        "UNO Backlog": 0.7781,
+        "ENR Backlog": 5446.8771,
+        "MIN Backlog": 1945.3133,
+        "MCH Backlog": 389.0627
+    },
+    {
+        "Block ID": "0134",
+        "Minting time": "2021-07-07 17:47:58",
+        "UNO Backlog": 0.7781,
+        "ENR Backlog": 2334.3009,
+        "MIN Backlog": 3112.4012,
+        "MCH Backlog": 389.0501
+    },
+    {
+        "Block ID": "0135",
+        "Minting time": "2021-07-07 17:50:58",
+        "UNO Backlog": 0.7781,
+        "ENR Backlog": 4668.4518,
+        "MIN Backlog": 2334.2259,
+        "MCH Backlog": 389.0376
+    },
+    {
+        "Block ID": "0136",
+        "Minting time": "2021-07-08 17:02:02",
+        "UNO Backlog": 0.7665,
+        "ENR Backlog": 766.4831,
+        "MIN Backlog": 2299.4492,
+        "MCH Backlog": 383.2415
+    },
+    {
+        "Block ID": "0137",
+        "Minting time": "2021-07-08 17:07:02",
+        "UNO Backlog": 0.7664,
+        "ENR Backlog": 2299.3242,
+        "MIN Backlog": 3448.9863,
+        "MCH Backlog": 383.2207
+    },
+    {
+        "Block ID": "0138",
+        "Minting time": "2021-07-08 17:22:02",
+        "UNO Backlog": 0.7663,
+        "ENR Backlog": 4597.8984,
+        "MIN Backlog": 2298.9492,
+        "MCH Backlog": 383.1582
+    },
+    {
+        "Block ID": "0139",
+        "Minting time": "2021-07-09 20:39:42",
+        "UNO Backlog": 0.7527,
+        "ENR Backlog": 6021.3532,
+        "MIN Backlog": 2258.0075,
+        "MCH Backlog": 376.3346
+    },
+    {
+        "Block ID": "0140",
+        "Minting time": "2021-07-09 20:41:42",
+        "UNO Backlog": 1.5053,
+        "ENR Backlog": 752.6525,
+        "MIN Backlog": 2634.2838,
+        "MCH Backlog": 376.3263
+    },
+    {
+        "Block ID": "0141",
+        "Minting time": "2021-07-09 20:43:42",
+        "UNO Backlog": 0.7526,
+        "ENR Backlog": 752.6359,
+        "MIN Backlog": 3010.5434,
+        "MCH Backlog": 376.3179
+    },
+    {
+        "Block ID": "0142",
+        "Minting time": "2021-07-12 12:55:50",
+        "UNO Backlog": 0.7205,
+        "ENR Backlog": 720.5347,
+        "MIN Backlog": 360.2674,
+        "MCH Backlog": 360.2674
+    },
+    {
+        "Block ID": "0143",
+        "Minting time": "2021-07-12 12:57:50",
+        "UNO Backlog": 0.7205,
+        "ENR Backlog": 720.5181,
+        "MIN Backlog": 360.259,
+        "MCH Backlog": 360.259
+    },
+    {
+        "Block ID": "0144",
+        "Minting time": "2021-07-12 12:59:50",
+        "UNO Backlog": 0.7205,
+        "ENR Backlog": 720.5014,
+        "MIN Backlog": 1441.0028,
+        "MCH Backlog": 360.2507
+    },
+    {
+        "Block ID": "0145",
+        "Minting time": "2021-07-13 10:46:38",
+        "UNO Backlog": 2.8384,
+        "ENR Backlog": 709.6114,
+        "MIN Backlog": 1774.0285,
+        "MCH Backlog": 354.8057
+    },
+    {
+        "Block ID": "0146",
+        "Minting time": "2021-07-13 10:48:38",
+        "UNO Backlog": 0.7096,
+        "ENR Backlog": 1419.1894,
+        "MIN Backlog": 2483.5815,
+        "MCH Backlog": 354.7973
+    },
+    {
+        "Block ID": "0147",
+        "Minting time": "2021-07-13 10:51:38",
+        "UNO Backlog": 0.7096,
+        "ENR Backlog": 2838.2788,
+        "MIN Backlog": 2838.2788,
+        "MCH Backlog": 354.7849
+    },
+    {
+        "Block ID": "0148",
+        "Minting time": "2021-07-14 18:27:10",
+        "UNO Backlog": 0.6938,
+        "ENR Backlog": 2081.3208,
+        "MIN Backlog": 2428.2076,
+        "MCH Backlog": 346.8868
+    },
+    {
+        "Block ID": "0149",
+        "Minting time": "2021-07-14 18:35:10",
+        "UNO Backlog": 2.0811,
+        "ENR Backlog": 693.707,
+        "MIN Backlog": 1734.2674,
+        "MCH Backlog": 346.8535
+    },
+    {
+        "Block ID": "0150",
+        "Minting time": "2021-07-14 18:41:10",
+        "UNO Backlog": 0.6937,
+        "ENR Backlog": 4855.5986,
+        "MIN Backlog": 1040.4854,
+        "MCH Backlog": 346.8285
+    },
+    {
+        "Block ID": "0151",
+        "Minting time": "2021-07-15 11:31:50",
+        "UNO Backlog": 0.6852,
+        "ENR Backlog": 4796.6429,
+        "MIN Backlog": 685.2347,
+        "MCH Backlog": 342.6173
+    },
+    {
+        "Block ID": "0152",
+        "Minting time": "2021-07-15 11:40:50",
+        "UNO Backlog": 0.6852,
+        "ENR Backlog": 4110.9582,
+        "MIN Backlog": 2055.4791,
+        "MCH Backlog": 342.5799
+    },
+    {
+        "Block ID": "0153",
+        "Minting time": "2021-07-15 11:37:50",
+        "UNO Backlog": 0.6852,
+        "ENR Backlog": 6166.6623,
+        "MIN Backlog": 3083.3311,
+        "MCH Backlog": 342.5924
+    },
+    {
+        "Block ID": "0154",
+        "Minting time": "2021-07-16 16:27:18",
+        "UNO Backlog": 0.6708,
+        "ENR Backlog": 670.7725,
+        "MIN Backlog": 1676.9313,
+        "MCH Backlog": 335.3863
+    },
+    {
+        "Block ID": "0155",
+        "Minting time": "2021-07-16 16:30:18",
+        "UNO Backlog": 0.6707,
+        "ENR Backlog": 670.7475,
+        "MIN Backlog": 1341.495,
+        "MCH Backlog": 335.3737
+    },
+    {
+        "Block ID": "0156",
+        "Minting time": "2021-07-20 23:18:58",
+        "UNO Backlog": 0.6193,
+        "ENR Backlog": 619.3419,
+        "MIN Backlog": 309.671,
+        "MCH Backlog": 309.671
+    },
+    {
+        "Block ID": "0157",
+        "Minting time": "2021-07-20 23:34:58",
+        "UNO Backlog": 2.4768,
+        "ENR Backlog": 1238.4172,
+        "MIN Backlog": 309.6043,
+        "MCH Backlog": 309.6043
+    },
+    {
+        "Block ID": "0158",
+        "Minting time": "2021-07-20 23:54:38",
+        "UNO Backlog": 1.2381,
+        "ENR Backlog": 3095.2235,
+        "MIN Backlog": 309.5224,
+        "MCH Backlog": 309.5224
+    },
+    {
+        "Block ID": "0159",
+        "Minting time": "2021-07-20 23:51:38",
+        "UNO Backlog": 0.6191,
+        "ENR Backlog": 3095.3485,
+        "MIN Backlog": 928.6046,
+        "MCH Backlog": 309.5349
+    },
+    {
+        "Block ID": "0160",
+        "Minting time": "2021-07-20 23:59:38",
+        "UNO Backlog": 0.619,
+        "ENR Backlog": 4952.0244,
+        "MIN Backlog": 928.5046,
+        "MCH Backlog": 309.5015
+    },
+    {
+        "Block ID": "0161",
+        "Minting time": "2021-07-21 00:03:38",
+        "UNO Backlog": 0.619,
+        "ENR Backlog": 3713.8182,
+        "MIN Backlog": 2166.394,
+        "MCH Backlog": 309.4848
+    },
+    {
+        "Block ID": "0162",
+        "Minting time": "2021-07-21 00:47:38",
+        "UNO Backlog": 0.6186,
+        "ENR Backlog": 3093.0153,
+        "MIN Backlog": 309.3015,
+        "MCH Backlog": 309.3015
+    },
+    {
+        "Block ID": "0163",
+        "Minting time": "2021-07-21 00:52:38",
+        "UNO Backlog": 1.8557,
+        "ENR Backlog": 4329.9298,
+        "MIN Backlog": 309.2807,
+        "MCH Backlog": 309.2807
+    },
+    {
+        "Block ID": "0164",
+        "Minting time": "2021-07-21 00:57:38",
+        "UNO Backlog": 0.6185,
+        "ENR Backlog": 618.5197,
+        "MIN Backlog": 2164.8189,
+        "MCH Backlog": 309.2598
+    },
+    {
+        "Block ID": "0165",
+        "Minting time": "2021-07-22 13:21:58",
+        "UNO Backlog": 0.6003,
+        "ENR Backlog": 1800.9509,
+        "MIN Backlog": 300.1585,
+        "MCH Backlog": 300.1585
+    },
+    {
+        "Block ID": "0166",
+        "Minting time": "2021-07-22 13:25:58",
+        "UNO Backlog": 0.6003,
+        "ENR Backlog": 4201.9852,
+        "MIN Backlog": 1800.8508,
+        "MCH Backlog": 300.1418
+    },
+    {
+        "Block ID": "0167",
+        "Minting time": "2021-07-22 13:30:58",
+        "UNO Backlog": 0.6002,
+        "ENR Backlog": 3001.2097,
+        "MIN Backlog": 1200.4839,
+        "MCH Backlog": 300.121
+    },
+    {
+        "Block ID": "0168",
+        "Minting time": "2021-07-23 19:14:54",
+        "UNO Backlog": 0.5854,
+        "ENR Backlog": 1170.7517,
+        "MIN Backlog": 585.3759,
+        "MCH Backlog": 292.6879
+    },
+    {
+        "Block ID": "0169",
+        "Minting time": "2021-07-23 19:19:54",
+        "UNO Backlog": 0.5853,
+        "ENR Backlog": 1170.6683,
+        "MIN Backlog": 1170.6683,
+        "MCH Backlog": 292.6671
+    },
+    {
+        "Block ID": "0170",
+        "Minting time": "2021-07-23 19:22:54",
+        "UNO Backlog": 0.5853,
+        "ENR Backlog": 2926.5458,
+        "MIN Backlog": 877.9637,
+        "MCH Backlog": 292.6546
+    },
+    {
+        "Block ID": "0171",
+        "Minting time": "2021-07-27 00:28:02",
+        "UNO Backlog": 0.5468,
+        "ENR Backlog": 1640.2992,
+        "MIN Backlog": 1093.5328,
+        "MCH Backlog": 273.3832
+    },
+    {
+        "Block ID": "0172",
+        "Minting time": "2021-07-27 10:40:42",
+        "UNO Backlog": 0.5417,
+        "ENR Backlog": 2708.3043,
+        "MIN Backlog": 1895.813,
+        "MCH Backlog": 270.8304
+    },
+    {
+        "Block ID": "0173",
+        "Minting time": "2021-07-27 10:49:42",
+        "UNO Backlog": 0.5416,
+        "ENR Backlog": 541.5859,
+        "MIN Backlog": 270.7929,
+        "MCH Backlog": 270.7929
+    },
+    {
+        "Block ID": "0174",
+        "Minting time": "2021-07-27 10:59:42",
+        "UNO Backlog": 1.6245,
+        "ENR Backlog": 2707.5125,
+        "MIN Backlog": 270.7513,
+        "MCH Backlog": 270.7513
+    },
+    {
+        "Block ID": "0175",
+        "Minting time": "2021-07-27 11:14:42",
+        "UNO Backlog": 0.5414,
+        "ENR Backlog": 2165.51,
+        "MIN Backlog": 1353.4438,
+        "MCH Backlog": 270.6888
+    },
+    {
+        "Block ID": "0176",
+        "Minting time": "2021-07-27 11:18:42",
+        "UNO Backlog": 2.1654,
+        "ENR Backlog": 541.3442,
+        "MIN Backlog": 1624.0325,
+        "MCH Backlog": 270.6721
+    },
+    {
+        "Block ID": "0177",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1149.0,
+        "MIN Backlog": 574.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0178",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.766,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 766.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0179",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 1340.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0180",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.766,
+        "ENR Backlog": 1532.0,
+        "MIN Backlog": 1149.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0181",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 574.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0182",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1532.0,
+        "MIN Backlog": 191.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0183",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1915.0,
+        "MIN Backlog": 957.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0184",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 191.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0185",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1149.0,
+        "MIN Backlog": 574.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0186",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 766.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0187",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.766,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 574.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0188",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 1149.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0189",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 766.0,
+        "MIN Backlog": 191.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0190",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 2681.0,
+        "MIN Backlog": 574.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0191",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 766.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0192",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 1149.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0193",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 957.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0194",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 957.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0195",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 191.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0196",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 1.532,
+        "ENR Backlog": 1915.0,
+        "MIN Backlog": 574.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0197",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 191.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0198",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1149.0,
+        "MIN Backlog": 766.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0199",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 1.149,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 766.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0200",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 1532.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0201",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 1.915,
+        "ENR Backlog": 1915.0,
+        "MIN Backlog": 957.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0202",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1149.0,
+        "MIN Backlog": 1532.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0203",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.766,
+        "ENR Backlog": 2681.0,
+        "MIN Backlog": 383.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0204",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 766.0,
+        "MIN Backlog": 191.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0205",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1149.0,
+        "MIN Backlog": 957.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0206",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 2681.0,
+        "MIN Backlog": 383.0,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0207",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.766,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 1340.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0208",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 1149.0,
+        "MIN Backlog": 957.5,
+        "MCH Backlog": 191.5
+    },
+    {
+        "Block ID": "0209",
+        "Minting time": "2021-08-09 16:00:00",
+        "UNO Backlog": 0.383,
+        "ENR Backlog": 383.0,
+        "MIN Backlog": 383.0,
+        "MCH Backlog": 191.5
+    }
+]
